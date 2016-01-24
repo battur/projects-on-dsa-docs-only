@@ -1,5 +1,5 @@
-# projects-on-dsa-docs-only
-Project implementations for 95-771 Data Structure and Algorithms course that is offered at the Carnegie Mellon University. 
+# Various projects implementations on data structures & algorithms
+Project implementations for 95-771 Data Structures and Algorithms course that is offered at the Carnegie Mellon University. 
 
 1. Merkle-Hellman Knapsack Cryptosystem using singly and doubly linked lists.
 2. Spell checker application using self-resizing, circular queues and red-black-trees. Probability computer for champion of major league baseball tournament using recursion and dynamic programming.
