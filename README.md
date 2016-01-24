@@ -1,4 +1,4 @@
-# Various projects implementations on data structures & algorithms
+# projects-on-dsa-docs-only
 Project implementations for 95-771 Data Structures and Algorithms course that is offered at the Carnegie Mellon University. 
 
 1. Merkle-Hellman Knapsack Cryptosystem using singly and doubly linked lists.
