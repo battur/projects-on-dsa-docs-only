@@ -1,7 +1,7 @@
 # projects-on-dsa-docs-only
 Project implementations for 95-771 Data Structures and Algorithms course that is offered at the Carnegie Mellon University. 
 
-1. Merkle-Hellman Knapsack Cryptosystem using singly and doubly linked lists.
+1. Merkle-Hellman Knapsack Cryptosystem (data encryption and decryption).
 2. Spell checker application using self-resizing, circular queues and red-black-trees. Probability computer for champion of major league baseball tournament using recursion and dynamic programming.
 3. Final exam scheduler using graph coloring algorithms (greedy and optimal) and other data structures such as graph, red-black-tree, and linked lists.
 4. Pittsburgh city crime locations tour (Hamiltonian cycle) computer using approximate (MST-Prim) and optimal algorithms for traveling salesman problem. Renders resulting information in Google Earth.
