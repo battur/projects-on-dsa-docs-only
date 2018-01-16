@@ -8,6 +8,6 @@ Project implementations for 95-771 Data Structures and Algorithms course that is
 5. File compressor and decompressor using Lempel-Ziv-Welch algorithm—a utility that works with both ASCII and binary files from small to large. Runtime comparison of implementations using HashMap and TreeMap.
 6. Implementations of Deterministic Finite State Automaton and Turing Machine.
 
-I received full score for all my project submissions (with good comments from the grader) for the DSA course. All projects have good amount of unit tests and other small utilities implementations for the correctness, accuracy, and readability of the solutions. If you want to have a look into my solutions (code), please send me an email at battursanchin@gmail.com; I will invite you a private github repository that hosts all my submissions. 
+I received full grade for my project submissions for the DSA course. All projects have good amount of unit tests and other small utilities implementations for the correctness, accuracy, and readability of the solutions. If you want to have a look into my solutions (code), please send me an email at battursanchin@gmail.com; I will invite you a private github repository that hosts all my submissions. 
 
 Note: Solutions will not be shared with current students at any university.
